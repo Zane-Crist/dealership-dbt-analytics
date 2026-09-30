@@ -1,0 +1,49 @@
+version: 2
+models:
+  - name: stg_journal_entries
+    columns:
+      - name: journal_id
+        tests:
+          - not_null
+      - name: account_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_accounts')
+                field: account_id
+      - name: dealership_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_dealers')
+                field: dealership_id
+  - name: stg_accounts
+    columns:
+      - name: account_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_dealers
+    columns:
+      - name: dealership_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_employees
+    columns:
+      - name: employee_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_skus
+    columns:
+      - name: sku_id
+        tests:
+          - unique
+          - not_null
+

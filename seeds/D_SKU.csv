@@ -1,0 +1,43 @@
+SKU,Description,SKU_Type,Supplier,Department,Class,Subclass,Unit_of_Measure,Active_Flag,Dealership_ID
+100001,"Toyota Camry LE","Vehicle","Toyota","Sedan","Midsize","Standard","EA",1,1
+100002,"Toyota Camry XSE","Vehicle","Toyota","Sedan","Midsize","Premium","EA",1,1
+100003,"Toyota Corolla LE","Vehicle","Toyota","Sedan","Compact","Standard","EA",1,1
+100004,"Toyota Corolla Hybrid","Vehicle","Toyota","Sedan","Compact","Hybrid","EA",1,1
+100005,"Toyota RAV4 LE","Vehicle","Toyota","SUV","Compact","Standard","EA",1,1
+100006,"Toyota RAV4 Hybrid","Vehicle","Toyota","SUV","Compact","Hybrid","EA",1,1
+100007,"Toyota Highlander XLE","Vehicle","Toyota","SUV","Midsize","Premium","EA",1,1
+100008,"Lexus RX 350","Vehicle","Lexus","SUV","Midsize","Luxury","EA",1,1
+100009,"Lexus NX 250","Vehicle","Lexus","SUV","Compact","Luxury","EA",1,1
+100010,"Mazda3 Sedan","Vehicle","Mazda","Sedan","Compact","Standard","EA",1,2
+100011,"Mazda3 Premium","Vehicle","Mazda","Sedan","Compact","Premium","EA",1,2
+100012,"Mazda CX-5","Vehicle","Mazda","SUV","Compact","Standard","EA",1,2
+100013,"Mazda CX-50","Vehicle","Mazda","SUV","Compact","Premium","EA",1,2
+100014,"Mazda CX-90","Vehicle","Mazda","SUV","Midsize","Premium","EA",1,2
+100015,"Chevrolet Trax","Vehicle","Chevrolet","SUV","Subcompact","Standard","EA",1,3
+100016,"Chevrolet Equinox","Vehicle","Chevrolet","SUV","Compact","Standard","EA",1,3
+100017,"Chevrolet Blazer","Vehicle","Chevrolet","SUV","Midsize","Premium","EA",1,3
+100018,"Chevrolet Silverado 1500","Vehicle","Chevrolet","Truck","Full Size","Standard","EA",1,3
+100019,"Nissan Sentra","Vehicle","Nissan","Sedan","Compact","Standard","EA",1,4
+100020,"Nissan Altima","Vehicle","Nissan","Sedan","Midsize","Standard","EA",1,4
+100021,"Nissan Rogue","Vehicle","Nissan","SUV","Compact","Standard","EA",1,4
+100022,"Nissan Pathfinder","Vehicle","Nissan","SUV","Midsize","Premium","EA",1,4
+200001,"Engine Oil 0W-20","Part","Toyota","Parts","Fluids","Engine Oil","QUART",1,
+200002,"Engine Oil 5W-30","Part","Chevrolet","Parts","Fluids","Engine Oil","QUART",1,
+200003,"Oil Filter - Toyota","Part","Toyota","Parts","Filters","Oil Filter","EA",1,
+200004,"Oil Filter - GM","Part","Chevrolet","Parts","Filters","Oil Filter","EA",1,
+200005,"Oil Filter - Nissan","Part","Nissan","Parts","Filters","Oil Filter","EA",1,
+200006,"Cabin Air Filter","Part","Various","Parts","Filters","Cabin Filter","EA",1,
+200007,"Engine Air Filter","Part","Various","Parts","Filters","Air Filter","EA",1,
+200008,"Brake Pad Set - Front","Part","Various","Parts","Brakes","Brake Pads","SET",1,
+200009,"Brake Rotor - Front","Part","Various","Parts","Brakes","Brake Rotor","EA",1,
+200010,"Wiper Blade","Part","Various","Parts","Maintenance","Wiper","EA",1,
+300001,"Oil Change","Service","Various","Service","Fluid Change","Oil Change","EA",1,
+300002,"Tire Rotation","Service","Various","Service","Tire Service","Tire Rotation","EA",1,
+300003,"Brake Inspection","Service","Various","Service","Brake Service","Inspection","EA",1,
+300004,"Brake Pad Replacement","Service","Various","Service","Brake Service","Brake Pads","EA",1,
+300005,"Wheel Alignment","Service","Various","Service","Tire Service","Alignment","EA",1,
+300006,"Diagnostic Service","Service","Various","Service","Diagnostic","Electrical","EA",1,
+300007,"General Repair Labor","Service","Various","Service","Labor","Mechanical","HOUR",1,
+300008,"Body Repair Labor","Service","Various","Service","Body Work","Collision","HOUR",1,
+300009,"Paint Labor","Service","Various","Service","Body Work","Paint","HOUR",1,
+300010,"Detail Service","Service","Various","Service","Appearance","Detailing","EA",1,

@@ -1,0 +1,24 @@
+version: 2
+
+models:
+  - name: dim_date
+    description: "Date dimension table generated via DuckDB date spine for temporal reporting and filtering."
+    columns:
+      - name: date_day
+        description: "The actual date calendar value (YYYY-MM-DD)."
+        tests:
+          - unique
+          - not_null
+
+      - name: date_id
+        description: "Surrogate primary key formatted as integer YYYYMMDD."
+        tests:
+          - unique
+          - not_null
+
+      - name: is_weekend
+        description: "Boolean flag indicating if the date falls on Saturday or Sunday."
+        tests:
+          - accepted_values:
+              arguments:
+                values: [true, false]

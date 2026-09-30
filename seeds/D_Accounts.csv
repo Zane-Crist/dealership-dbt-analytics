@@ -1,0 +1,27 @@
+Account_ID,Account_Number,Account_Description,Account_Type,Account_Group
+1,1100,Cash,Asset,Cash & Equivalents
+2,1200,Accounts Receivable,Asset,Receivables
+3,1300,Vehicle Inventory,Asset,Inventory
+4,1400,Parts Inventory,Asset,Inventory
+5,2100,Accounts Payable,Liability,Payables
+6,2200,Accrued Expenses,Liability,Accrued Liabilities
+7,3100,Retained Earnings,Equity,Equity
+8,4100,New Vehicle Sales,Revenue,Vehicle Sales
+9,4110,Used Vehicle Sales,Revenue,Vehicle Sales
+10,4200,Service Revenue,Revenue,Service Revenue
+11,4300,Parts Revenue,Revenue,Parts Revenue
+12,5100,New Vehicle COGS,COGS,Vehicle COGS
+13,5110,Used Vehicle COGS,COGS,Vehicle COGS
+14,5200,Service COGS,COGS,Service COGS
+15,5300,Parts COGS,COGS,Parts COGS
+16,6100,Sales Commissions,Expense,Personnel Expense
+17,6110,Service Labor Expense,Expense,Personnel Expense
+18,6200,Rent and Occupancy,Expense,Occupancy Expense
+19,6300,Utilities,Expense,Occupancy Expense
+20,6400,Advertising,Expense,Sales & Marketing
+21,6500,Insurance,Expense,Operating Expense
+22,6600,Repairs and Maintenance,Expense,Operating Expense
+23,6700,Depreciation Expense,Expense,Operating Expense
+24,6800,Office and Administrative Expense,Expense,Operating Expense
+25,6900,Other Operating Expense,Expense,Operating Expense
+26,4950,OEM Incentive Revenue,Revenue,Operating Income

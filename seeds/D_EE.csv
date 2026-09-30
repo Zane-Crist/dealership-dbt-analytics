@@ -1,0 +1,27 @@
+Employee_ID,Employee_Name,Employee_Type,Dealership_ID,Hire_Date,Active_Flag
+1001,Jason Miller,Sales,1,2019-04-15,1
+1002,Amanda Brooks,Sales,1,2021-08-09,1
+1003,Robert Hayes,Sales,1,2017-02-20,1
+1004,Sarah Collins,Service,1,2020-06-01,1
+1005,Michael Turner,Service,1,2018-11-12,1
+1006,Daniel Foster,Parts,1,2022-03-07,1
+1007,Emily Carter,Management,1,2015-09-21,1
+1008,James Bennett,Sales,2,2020-01-13,1
+1009,Jessica Reed,Sales,2,2023-05-22,1
+1010,Thomas Morgan,Service,2,2019-07-08,1
+1011,Laura Phillips,Service,2,2021-10-18,1
+1012,William Cooper,Parts,2,2022-09-06,1
+1013,Andrew Richardson,Management,2,2018-03-19,1
+1014,Christopher Ward,Sales,3,2016-05-23,1
+1015,Melissa Hughes,Sales,3,2020-09-14,1
+1016,Steven Peterson,Sales,3,2022-01-10,1
+1017,Nicole Sanders,Service,3,2017-08-28,1
+1018,Kevin Ramirez,Service,3,2019-12-02,1
+1019,Mark Jenkins,Parts,3,2014-06-16,1
+1020,Elizabeth Watson,Management,3,2012-11-05,1
+1021,Ryan Coleman,Sales,4,2022-05-16,1
+1022,Stephanie Powell,Sales,4,2023-02-06,1
+1023,Brandon Long,Service,4,2022-08-22,1
+1024,Rachel Patterson,Service,4,2024-01-15,1
+1025,Anthony Bryant,Parts,4,2023-06-12,1
+1026,Jennifer Alexander,Management,4,2022-04-04,1
