@@ -1,5 +1,5 @@
 with raw_skus as (
-    select * from {{ ref('D_SKU') }}
+    select * from {{ ref('raw_skus') }}
 ),
 
 staged as (

@@ -1,6 +1,6 @@
 with raw_dealers as (
 
-    select * from {{ ref('D_Dealer') }}
+    select * from {{ ref('raw_dealers') }}
 
 ),
 

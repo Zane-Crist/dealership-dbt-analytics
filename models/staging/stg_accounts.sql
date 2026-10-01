@@ -1,6 +1,6 @@
 with raw_accounts as (
 
-    select * from {{ ref('D_Accounts') }}
+    select * from {{ ref('raw_accounts') }}
 
 ),
 

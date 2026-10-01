@@ -1,6 +1,6 @@
 with raw_journal_entries as (
 
-    select * from {{ ref('F_Journal_Entries') }}
+    select * from {{ ref('raw_journal_entries') }}
 
 ),
 

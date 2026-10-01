@@ -1,6 +1,6 @@
 with raw_employees as (
 
-    select * from {{ ref('D_EE') }}
+    select * from {{ ref('raw_employees') }}
 
 ),
 
