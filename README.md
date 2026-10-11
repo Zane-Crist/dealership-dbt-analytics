@@ -31,3 +31,13 @@ This project simulates an enterprise General Ledger environment for a multi-loca
 dbt seed
 dbt run
 dbt test
+## Dashboard Screenshots
+
+### Executive Summary
+![Executive Summary](assets/Dealer_Portfolio_1.png)
+
+### SKU Performance
+![SKU Performance](assets/Dealer_Portfolio_2.png)
+
+### Dealer Benchmarking
+![Dealer Benchmarking](assets/Dealer_Portfolio_3.png)
